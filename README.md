@@ -13,6 +13,8 @@
 - E : Shoot Grappling Hook
 - Spacebar : Jump (standing/running) | Launch (while grappling)
 
+**Note:** There is no ceiling in the level, so it is possible to fly out of the apartment. This was done to test the grappling hooks "lauch" ability. 
+
 ---
 
 This Repositary was created by team JTJ (team #2) for Mohawk Colleges Game Design program. Team members include Trevor (TJ) Beckham, Jennifer Rodriguez Corpas, and Jayce Gagui.
