@@ -49,4 +49,8 @@ Our vision focuses on a game featuring a battery-powered Grapple Hero action fig
 ---
 
 ## Link Dump (Resources)
-- 
+- [Grappling Hook Code | Code Monkey](https://www.youtube.com/watch?v=twMkGTqyZvI)
+- [Apartment Scenes/Objects | Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055)
+- [Chess Collector Code tutorial | Mohawk College](https://mycanvas.mohawkcollege.ca/courses/99819/modules)
+- [Unity Tag refresh | Unity Documentation](https://docs.unity3d.com/Manual/Tags.html)
+- [GDD Layout details | Mohawk College](https://docs.google.com/document/d/1VWy6HfrUwu70FdWf2XzHdUgJ0oVc7IxVea6LclSAKbM/edit?usp=sharing)
