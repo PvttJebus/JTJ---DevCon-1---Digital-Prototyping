@@ -1,25 +1,24 @@
-#Game Overview
-##Title: Zen Skye
+# Game Overview - Zen Skye
 
-##Description:
+## Description:
 Zen Skye is a first-person action-adventure game where you step into the shoes of a battery-powered action figure with grappling hook abilities. Zen suddenly gained consciousness and found himself confused and lost. After an unfortunate accident with Zen attempting to use his grappling hook, Zen fell and damaged his battery holder, shortening his battery life.
 As the player, You’ll play as Zen Skye to navigate a household as a small action figure with fast-paced grappling hook traversal, but be mindful of your battery! You’ll need to search for batteries and recharge empty ones while uncovering your origins and purpose.
 
-##Genre:
+## Genre:
 Puzzle & Action-Adventure
 
-##Platform:
+## Platform:
 PlayStation 5, PlayStation 4, Microsoft Windows
 
-##Developer: 
+## Developer: 
 Tree Bear Interactive
 
-##Publishers:
+## Publishers:
 Tree Bear Interactive, Sony Interactive Entertainment
 
 ---
 
-##Game Mechanics
+## Game Mechanics
 
 - X
 - Y
