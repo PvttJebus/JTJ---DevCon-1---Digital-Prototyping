@@ -44,11 +44,11 @@ Tree Bear Interactive, Sony Interactive Entertainment
 
 **Questions:**
 
-**Experience of Use:** Does the grappling hook mechanic add a sensation of speed and agility? Does it feel responsive? 
+- **Experience of Use:** Does the grappling hook mechanic add a sensation of speed and agility? Does it feel responsive? 
 
-**Interaction with environment:** How does the grappling hook interact with the world? Does the mechanic provide opportunities for engaging experiences and interactions within the game?
+- **Interaction with environment:** How does the grappling hook interact with the world? Does the mechanic provide opportunities for engaging experiences and interactions within the game?
 
-**Impact on Object Weight:** How does the functionality of the grappling hook change when object weight is taken into account? Does weight consideration positively or negatively affect the sensation of the mechanic?
+- **Impact on Object Weight:** How does the functionality of the grappling hook change when object weight is taken into account? Does weight consideration positively or negatively affect the sensation of the mechanic?
 
 ---
 
