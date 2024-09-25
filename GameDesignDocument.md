@@ -19,6 +19,15 @@ Tree Bear Interactive, Sony Interactive Entertainment
 ---
 ## Zen Skye - Mood Board
 
+![Zen Skye Mood Board](https://imgur.com/a/0SMfZX4)
+
+### Games included in Mood Board
+- **Game:** Hypercharged Unboxed | **Reason for Including:** Similar theme, perspective
+- **Game:** Army Men 3D | **Reason for Including:** Similar theme, perspective
+- **Game:** Spiderman Miles Morales | **Reason for Including:** Good example of "grappling hooks"
+- **Game:** Toy Story 2 | **Reason for Including:** Perspective, similar theme
+- **Game:** Dying Light | **Reason for Including:** Good example of grappling hook usage
+
 ---
 
 ## Game Mechanics
