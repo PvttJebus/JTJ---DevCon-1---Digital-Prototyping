@@ -17,13 +17,15 @@ Tree Bear Interactive
 Tree Bear Interactive, Sony Interactive Entertainment
 
 ---
+## Zen Skye - Mood Board
+
+---
 
 ## Game Mechanics
 
-- X
-- Y
-- Z
-- Grappling Hook (Prototyped Mechanic)
+- Battery Charge = Life
+- Melee and Ranged Combat
+- Grappling Hook **(Prototyped Mechanic)**
 -- The Grappling Hook mechanic would allow players to grapple on surfaces to pull themselves forward at high speed, making the traversal in our game faster and exciting. Players could also use the Grappling hook mechanic to pull lighter or smaller objects towards them
 
 ---
