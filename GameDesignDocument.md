@@ -19,7 +19,7 @@ Tree Bear Interactive, Sony Interactive Entertainment
 ---
 ## Zen Skye - Mood Board
 
-![Zen Skye Mood Board](https://imgur.com/a/0SMfZX4)
+![Zen Skye Mood Board](https://imgur.com/oz8Rm6W.jpg)
 
 ### Games included in Mood Board
 - **Game:** Hypercharged Unboxed | **Reason for Including:** Similar theme, perspective
